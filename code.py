@@ -1,1 +1,0 @@
-print("nen writer ayitha")

@@ -5,6 +5,7 @@ This repository contains my practice implementations of fundamental Data Structu
 
 # Repository Structure
 
+```
 repo/
 │
 ├── c/
@@ -20,6 +21,7 @@ repo/
 │   └── flames.py
 │
 └── README.md
+```
 
 # C Programs Included
 

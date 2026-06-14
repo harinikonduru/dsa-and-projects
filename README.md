@@ -2,19 +2,17 @@
 
 This repository contains my practice implementations of fundamental Data Structures, Algorithms, and small Python projects. It is part of my learning journey in programming and problem-solving.
 
-
 # Repository Structure
 
 ```
-repo/
+dsa-and-projects/
 │
 ├── c/
 │   ├── linear_search.c
 │   ├── binary_search.c
 │   ├── bubble_sort.c
 │   ├── insertion_sort.c
-│   ├── selection_sort.c
-│   └── scientific_calculator.c
+│   └── selection_sort.c
 │
 ├── python/
 │   ├── expense_manager.py
@@ -26,17 +24,13 @@ repo/
 # C Programs Included
 
 ### Searching Algorithms
-- Linear Search (O(n))
-- Binary Search (O(log n)) — requires sorted array
+- Linear Search — O(n)
+- Binary Search — O(log n), requires sorted array
 
 ### Sorting Algorithms
-- Bubble Sort
-- Insertion Sort
-- Selection Sort
-
-### Mini Project
-- Scientific Calculator
-
+- Bubble Sort — O(n²)
+- Insertion Sort — O(n²)
+- Selection Sort — O(n²)
 
 # Python Projects Included
 
@@ -44,8 +38,7 @@ repo/
 A simple program to track and manage personal expenses.
 
 ### FLAMES Game
-A fun name-based  prediction game.
-
+A fun name-based prediction game.
 
 # Purpose of This Repository
 
@@ -54,12 +47,10 @@ A fun name-based  prediction game.
 - Build a structured coding portfolio
 - Prepare for coding interviews and internships
 
-
 # Languages Used
 
 - C
 - Python
 
 # Author
-
 Harini Konduru
